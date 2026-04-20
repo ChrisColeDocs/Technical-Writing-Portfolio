@@ -13,7 +13,7 @@ The client experienced recurring friction in their booking workflow:
 - Customers had difficulty locating the correct studio entrance
 - Repetitive questions about availability, pricing, and logistics
 
-  ## Solution
+## Solution
 
 Created a 3-part documentation package designed to reduce friction and improve clarity:
 
@@ -31,7 +31,7 @@ Each document was structured for quick scanning and focused on the most common p
 - Iterated on visual assets (map) based on client feedback to improve accuracy and usability
 - Delivered final documents in PDF format for immediate use
 
-  ## Key Decisions
+## Key Decisions
 
 - Prioritized "Location & Entry" at the top of the email to address the most common issue
 - Replaced a cluttered map with a simplified, annotated version to reduce confusion
@@ -39,13 +39,13 @@ Each document was structured for quick scanning and focused on the most common p
 - Designed all documents for glanceability using bullet points and clear hierarchy
 - Avoided duplicating information already handled by booking software
 
-  ## Deliverables
+## Deliverables
 
 - Booking & Arrival Guide  
 - Appointment Confirmation Email Template  
 - DM Response Template
 
-  ## Outcome
+## Outcome
 
 The client received a set of structured, ready-to-use documents designed to:
 
