@@ -28,7 +28,7 @@ The emphasis in this portfolio is on clarity over complexity. Each document prio
 
 ## Professional Context
 
-These samples reflect early-stage professional development in technical writing with a focus on business documentation and operational support content. They are intended to demonstrate applied skill in structuring information clearly and consistently across different use cases.
+These samples reflect professional development in technical writing with a focus on business documentation and operational support content. They are intended to demonstrate applied skill in structuring information clearly and consistently across different use cases.
 
 ## Goal
 
