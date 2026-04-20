@@ -13,7 +13,7 @@ The client experienced recurring friction in their booking workflow:
 - Customers had difficulty locating the correct studio entrance
 - Repetitive questions about availability, pricing, and logistics
 
-  ## Solution
+## Solution
 
 Created a 3-part documentation package designed to reduce friction and improve clarity:
 
